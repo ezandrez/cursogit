@@ -10,6 +10,7 @@ body{
 .post{
   border: 1px solid #ddd;
   text-align: left;
+  color: red;
 }
 .post h1 {
   font-size: 1.3em;
