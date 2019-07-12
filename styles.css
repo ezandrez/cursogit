@@ -10,21 +10,16 @@ body{
 .post{
   border: 1px solid #ddd;
   text-align: left;
-<<<<<<< HEAD
-  /* color: red; */
-}
-.post img{
-  height: 500px ;
-  float: left;
-  clear: both;
-=======
   color: blue;
->>>>>>> 2c8e020b1d2b5bc0db07c6c6c4770f566b3275f1
 }
 .post h1 {
   font-size: 1.3em;
   color: #1da0c8
   
+}
+.post img{
+  float: left;
+  height: 500px;
 }
 .header{
   display: flex;
