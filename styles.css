@@ -10,16 +10,12 @@ body{
 .post{
   border: 1px solid #ddd;
   text-align: left;
-<<<<<<< HEAD
-  color: blue;
-=======
   /* color: red; */
 }
 .post img{
   height: 500px ;
   float: left;
   clear: both;
->>>>>>> development
 }
 .post h1 {
   font-size: 1.3em;
